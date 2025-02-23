@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const standings = [
   { rank: 1, team: "Liverpool", played: 26, won: 18, drawn: 7, lost: 1, gf: 62, ga: 36, gd: 26, points: 61 },
   { rank: 2, team: "Arsenal", played: 26, won: 15, drawn: 8, lost: 3, gf: 51, ga: 23, gd: 28, points: 53 },
